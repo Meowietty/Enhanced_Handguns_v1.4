@@ -45,7 +45,6 @@ A big thank you to everyone who helped with this update. Especially **Oleh** . D
 
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-30-51" src="https://github.com/user-attachments/assets/90c6fafa-d3c3-4ca5-902c-709420a8aec5" />
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-30-39" src="https://github.com/user-attachments/assets/48086287-2367-4561-98dd-85a9bee7917d" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-30-14" src="https://github.com/user-attachments/assets/5a01ee41-e638-4a99-8b34-9fa983ddc405" />
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-29-42" src="https://github.com/user-attachments/assets/6286fadc-e089-447f-8d59-979197c28aaa" />
 
 ***
