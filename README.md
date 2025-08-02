@@ -18,6 +18,8 @@ A big thank you to everyone who helped with this update. Especially **Oleh** . D
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-18-24" src="https://github.com/user-attachments/assets/e6da40e5-ea42-4026-8b17-5007402fa98d" />
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-18-52" src="https://github.com/user-attachments/assets/597228ba-1b70-4f20-b3fd-fe1d20acef0a" />
 
+***
+
 **OTs-33 "Pernach"**
 > - Improved Original Model with wooden pistol grip.
 > - New 9mm Suppressor model with thermal cover.
