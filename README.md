@@ -49,7 +49,7 @@ A big thank you to everyone who helped with this update. Especially **Oleh** . D
 
 ***
 
-## Serdyukov SR-1MP Gyurza 9x21**
+## Serdyukov SR-1MP Gyurza 9x21
 > - EFT model, FIREBREATH M9 animations
 > - Updated all 3 variants: Base Pistol and 2 Kits from base GAMMA
 
