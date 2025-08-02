@@ -132,7 +132,7 @@ A big thank you to everyone who helped with this update. Especially **Oleh** . D
 
 ***
 
-## Colt 1911 Nightsword Custom (NSC) as Strayer-Voigt Infinity (SVI) REPLACER**
+## Colt 1911 Nightsword Custom (NSC) as Strayer-Voigt Infinity (SVI) REPLACER
 > - FIREBREATH M9 animations.
 > - Hyperburst **(1200 RPM)**
 > - 15-rnd Magazine
