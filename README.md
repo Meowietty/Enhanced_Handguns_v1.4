@@ -84,6 +84,13 @@ A big thank you to everyone who helped with this update. Especially **Oleh** . D
 
 ***
 
+## USP Tactical .45 ACP
+> - FIREBREATH M9 animations.
+> - 12-rnd Magazine
+> - The ability to install several small RDS
+
+
+
 ## Colt 1911 and M45A1
 > - EFT model, FIREBREATH M9 animations.
 
@@ -138,12 +145,3 @@ A big thank you to everyone who helped with this update. Especially **Oleh** . D
 ## Grizzly Win Mag .357 (Mark I) as Coonan .357 REPLACER
 > - FIREBREATH M9 animations.
 > - 7-rnd Magazine
-
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-50-06" src="https://github.com/user-attachments/assets/4ec8fa0b-22fa-485e-ac77-ad1fab4c55e5" />
-<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-50-34" src="https://github.com/user-attachments/assets/de49067f-5eb8-4117-966e-8567116d59fb" />
-
-## USP Tactical .45 ACP
-> - FIREBREATH M9 animations.
-> - 12-rnd Magazine
-> - The ability to install several small RDS
-
