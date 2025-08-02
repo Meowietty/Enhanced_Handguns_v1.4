@@ -1,5 +1,5 @@
 # **ENHANCED HANDGUNS 1.2**
-Good day stalkers. The long-awaited update of **Enhanced Handguns 1.2 **has been released. A huge amount of work has been done on textures and porting weapons to the animations created by FIREBREATH. Unfortunately, there are not many variations of these animations, and most of the ported weapons will have similar animations. But in my opinion, the quality of these animations compensates for the lack of a wide variety. Please note that I do not work on animations - I don’t know how to do them. I only tried to adapt parts of the weapons to the existing animations. It didn’t turn out too badly.
+Good day stalkers. The long-awaited update of **Enhanced Handguns 1.2** has been released. A huge amount of work has been done on textures and porting weapons to the animations created by FIREBREATH. Unfortunately, there are not many variations of these animations, and most of the ported weapons will have similar animations. But in my opinion, the quality of these animations compensates for the lack of a wide variety. Please note that I do not work on animations - I don’t know how to do them. I only tried to adapt parts of the weapons to the existing animations. It didn’t turn out too badly.
 
 A big thank you to everyone who helped with this update. Especially **Oleh** . Dear God... how I annoyed him with my stupid questions.
 
