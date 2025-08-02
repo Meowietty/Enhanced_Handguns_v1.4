@@ -4,6 +4,7 @@ Good day stalkers. The long-awaited update of **Enhanced Handguns 1.2 **has been
 A big thank you to everyone who helped with this update. Especially **Oleh** . Dear God... how I annoyed him with my stupid questions.
 
 # PATCHNOTES 1.2:
+
 **Makarov PM 9x18 and PB 9x18 silenced pistol**
 > - EFT model, Default Gunslinger animations.
 > - The ability to install a **LASER SIGHT** (in the form of a *PISTOL GRIP*).
@@ -45,3 +46,15 @@ A big thank you to everyone who helped with this update. Especially **Oleh** . D
 > - The ability to install several small RDS
 
 **Colt 1911 Nightsword Custom (NSC) as Strayer-Voigt Infinity (SVI) REPLACER**
+> - FIREBREATH M9 animations.
+> - 15-rnd Magazine
+> - The ability to install several small RDS
+
+
+
+
+
+
+
+
+
