@@ -8,31 +8,40 @@ A big thank you to everyone who helped with this update. Especially **Oleh** . D
 > - EFT model, Default Gunslinger animations.
 > - The ability to install a **LASER SIGHT** (in the form of a *PISTOL GRIP*).
 > - New **PM Upgrade Kit** and **PB Upgrade Kit**.
+
 **OTs-33 "Pernach"**
 > - Improved Original Model with wooden pistol grip.
 > - New 9mm Suppressor model with thermal cover.
 > - The ability to install a **LASER SIGHT**.
+
 **TT-33 Tokarev**
 > - EFT model, Default Gunslinger animations.
 > - A small modern interpretation of an old pistol.
 > - The ability to install a **LASER SIGHT**.
+
 **Serdyukov SR-1MP Gyurza 9x21**
 > - EFT model, FIREBREATH M9 animations
 > - Updated all 3 variants: Base Pistol and 2 Kits from base GAMMA
+
 **MP-433 "Grach"**
 > - New model, Default Gunslinger animations.
 > - The ability to install a **LASER SIGHT**.
+
 **MP-412 Rex**
 > - New model, Blindside animations
 > - @id26779590 (*Increased) reload speed* by 15% and fixed reload sound from **Oleh** :salute: .
+
 **Colt 1911 and M45A1**
 > - EFT model, FIREBREATH M9 animations.
+
 **Colt 1911 "Anarchy" **
 > - EFT model, FIREBREATH OTs-33 animations.
 > - The appearance of the weapon has been completely reworked. 
 > - New 11-rnd extended magazine with FULL AUTO firing mode
+
 **Kimber Rapide 1911 .45 ACP as KORTH CUSTOM REPLACER**
 > - FIREBREATH M9 animations.
 > - 8-rnd Magazine
 > - The ability to install several small RDS
+
 **Colt 1911 Nightsword Custom (NSC) as Strayer-Voigt Infinity (SVI) REPLACER**
