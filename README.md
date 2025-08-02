@@ -78,7 +78,7 @@ A big thank you to everyone who helped with this update. Especially **Oleh** . D
 
 ## MP-412 Rex
 > - New model, Blindside animations
-> - @id26779590 (*Increased) reload speed* by 15% and fixed reload sound from **Oleh** :salute: .
+> - Increased reload speed by 15% and fixed reload sound from **Oleh**
 
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-38-25" src="https://github.com/user-attachments/assets/c3e6d696-28ac-4ad1-859d-abe34ac59afb" />
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-39-08" src="https://github.com/user-attachments/assets/dc54d958-fc9c-4a27-8732-632a34f3c00e" />
