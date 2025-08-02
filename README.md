@@ -89,6 +89,10 @@ A big thank you to everyone who helped with this update. Especially **Oleh** . D
 > - 12-rnd Magazine
 > - The ability to install several small RDS
 
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-52-07" src="https://github.com/user-attachments/assets/2053e2cc-80b2-49d7-81e6-35a16411f641" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-52-26" src="https://github.com/user-attachments/assets/6ba34fb9-e6e0-4408-8fa5-50ded88c647e" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-52-49" src="https://github.com/user-attachments/assets/80e54473-28e9-445e-aa15-248d689df9ec" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-53-15" src="https://github.com/user-attachments/assets/56b7bf5d-5b2c-4739-9eee-244ecb218b13" />
 
 
 ## Colt 1911 and M45A1
@@ -140,8 +144,10 @@ A big thank you to everyone who helped with this update. Especially **Oleh** . D
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-48-54" src="https://github.com/user-attachments/assets/e31c7b61-f3d1-40c7-9bad-d7ac724b4532" />
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-49-31" src="https://github.com/user-attachments/assets/464235ab-f13c-4fa8-bae0-fb30be226e39" />
 
-***
 
 ## Grizzly Win Mag .357 (Mark I) as Coonan .357 REPLACER
 > - FIREBREATH M9 animations.
 > - 7-rnd Magazine
+
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-50-06" src="https://github.com/user-attachments/assets/212128fa-8827-4308-b3e2-0b139074928f" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-07-31 19-50-34" src="https://github.com/user-attachments/assets/b75f382d-f2d1-4787-ab41-ddafa748e42b" />
