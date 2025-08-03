@@ -6,7 +6,6 @@ A big thank you to everyone who helped with this update. Especially **Oleh** and
 # INSTALLATION:
 Nothing complicated - just install and set the highest priority. This means that the addon should overwrite my other addons too.
 I also recommend installing the optional version of textures with BC7 compression to get rid of artifacts caused by BC3 compression for textures in the main pack. CAN ONLY BE USED WITH DX11. This optional archive must be installed over the main file and overwrites textures.
-It is also possible to install optional patch for MAG Redux users by Leekos.
 
 # PATCHNOTES 1.2:
 
