@@ -7,6 +7,11 @@ A big thank you to everyone who helped with this update. Especially **Oleh** and
 Nothing complicated - just install and set the highest priority. This means that the addon should overwrite my other addons too.
 I also recommend installing the optional version of textures with BC7 compression to get rid of artifacts caused by BC3 compression for textures in the main pack. CAN ONLY BE USED WITH DX11. This optional archive must be installed over the main file and overwrites textures.
 
+# PATCHNOTES 1.2.1:
+> - Removed scripts folder
+> - Few edits to USP model, Added Green tritium sights, fixed repositions
+> - Fixed crash related to 3DSS configs
+
 # PATCHNOTES 1.2:
 
 ## Makarov PM 9x18 and PB 9x18 silenced pistol
