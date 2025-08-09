@@ -1,4 +1,4 @@
-# **ENHANCED HANDGUNS 1.2.1**
+# **ENHANCED HANDGUNS 1.3**
 Good day stalkers. The long-awaited update of **Enhanced Handguns 1.2** has been released. A huge amount of work has been done on textures and porting weapons to the animations created by FIREBREATH. Unfortunately, there are not many variations of these animations, and most of the ported weapons will have similar animations. But in my opinion, the quality of these animations compensates for the lack of a wide variety. Please note that I do not work on animations - I don’t know how to do them. I only tried to adapt parts of the weapons to the existing animations. It didn’t turn out too badly.
 
 A big thank you to everyone who helped with this update. Especially **Oleh** and Leekos.
@@ -7,12 +7,24 @@ A big thank you to everyone who helped with this update. Especially **Oleh** and
 Nothing complicated - just install and set the highest priority. This means that the addon should overwrite my other addons too.
 I also recommend installing the optional version of textures with BC7 compression to get rid of artifacts caused by BC3 compression for textures in the main pack. CAN ONLY BE USED WITH DX11. This optional archive must be installed over the main file and overwrites textures.
 
-# PATCHNOTES 1.2.1:
-> - Removed scripts folder
-> - Few edits to USP model, Added Green tritium sights, fixed repositions
-> - Fixed crash related to 3DSS configs
+# PATCHNOTES 1.3:
+> - PL-15 Pistol Update
 
-# PATCHNOTES 1.2:
+***
+
+## PL-15 Pistol
+> - EFT model, FIREBREATH Walther P99 animations.
+
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 19-49-52" src="https://github.com/user-attachments/assets/051db04c-00e2-4518-917c-5525d78716ee" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 19-57-55" src="https://github.com/user-attachments/assets/04e06a20-76dc-4329-8488-798c5bc30617" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 19-58-48" src="https://github.com/user-attachments/assets/439955e6-7672-443e-afab-25950b01eb84" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 19-59-19" src="https://github.com/user-attachments/assets/886a3110-bbe9-48c6-b04d-9bde60b13839" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 19-59-55" src="https://github.com/user-attachments/assets/e239f2ba-30dd-4d4e-bbc5-887493e13114" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 20-00-09" src="https://github.com/user-attachments/assets/42eac27d-3b22-454d-a24e-1c6cc9d10648" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 20-00-54" src="https://github.com/user-attachments/assets/77d9a9fa-0d34-47b8-9eac-e347c4d207e3" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-08 20-01-16" src="https://github.com/user-attachments/assets/0de0a3d9-0d3c-4515-beb9-39f1072e9f95" />
+
+***
 
 ## Makarov PM 9x18 and PB 9x18 silenced pistol
 > - EFT model, Default Gunslinger animations.
