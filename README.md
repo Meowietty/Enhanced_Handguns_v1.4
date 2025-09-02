@@ -1,14 +1,53 @@
-# **ENHANCED HANDGUNS 1.3**
-Good day stalkers. The long-awaited update of **Enhanced Handguns 1.2** has been released. A huge amount of work has been done on textures and porting weapons to the animations created by FIREBREATH. Unfortunately, there are not many variations of these animations, and most of the ported weapons will have similar animations. But in my opinion, the quality of these animations compensates for the lack of a wide variety. Please note that I do not work on animations - I don’t know how to do them. I only tried to adapt parts of the weapons to the existing animations. It didn’t turn out too badly.
+# **ENHANCED HANDGUNS 1.4** DX11 ONLY!!!
+Good day stalkers. This is **Enhanced Handguns 1.4** update release. A huge amount of work has been done on textures and porting weapons to the animations created by FIREBREATH. Unfortunately, there are not many variations of these animations, and most of the ported weapons will have similar animations. But in my opinion, the quality of these animations compensates for the lack of a wide variety. Please note that I do not work on animations - I don’t know how to do them. I only tried to adapt parts of the weapons to the existing animations. It didn’t turn out too badly.
 
-A big thank you to everyone who helped with this update. Especially **Oleh** and Leekos.
+A big thank you to everyone who helped with this update:
+- Oleh for editing/adding new sounds and help with configs.
+- Juan and Kmack for help in creating world models
+- Alchem for **Smaller Icons Patch**
+- Leekos for **Mag Redux Patch**
 
 # INSTALLATION:
 Nothing complicated - just install and set the highest priority. This means that the addon should overwrite my other addons too.
-I also recommend installing the optional version of textures with BC7 compression to get rid of artifacts caused by BC3 compression for textures in the main pack. CAN ONLY BE USED WITH DX11. This optional archive must be installed over the main file and overwrites textures.
 
-# PATCHNOTES 1.3:
-> - PL-15 Pistol Update
+# PATCHNOTES 1.4:
+- Added new FN57, M9A3, RSh-12
+
+***
+
+## RSh-12 Shorty
+> - Freed 3D model by MCTav1sh with my edits. Sedzshimol animations
+> - Faster reload (20%), New sounds from Oleh
+
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-26 21-08-34" src="https://github.com/user-attachments/assets/23ee3885-b586-4996-8139-5b09a9753d32" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-26 21-08-53" src="https://github.com/user-attachments/assets/493f9074-8731-4def-95a7-46419ff95bdf" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-26 21-09-52" src="https://github.com/user-attachments/assets/9eafbfd6-4b12-4a69-98de-f142d7993094" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-22 22-41-03" src="https://github.com/user-attachments/assets/d76bec06-4cda-4ce6-a10d-bb349c7c9907" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-22 22-40-06" src="https://github.com/user-attachments/assets/7f2ea374-5b36-456b-9464-21a3a44f8497" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-22 22-41-53" src="https://github.com/user-attachments/assets/7252d80c-d5a3-40d7-a7dd-c0a2c0bb628c" />
+
+***
+
+## FN57 FiveseveN 
+> - EFT Model, FIREBREATH animations
+
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-11 16-01-56" src="https://github.com/user-attachments/assets/a46fc5c9-ceda-4f52-995f-5a270264b262" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-11 16-03-16" src="https://github.com/user-attachments/assets/50a330ab-aa6a-4999-8e14-4c28a3c193c5" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-11 16-03-41" src="https://github.com/user-attachments/assets/8bf2c9e1-d1e7-478c-8ef5-ed52808c8497" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-11 16-05-01" src="https://github.com/user-attachments/assets/fcafde90-805f-4b4c-8baf-5994b9d7b306" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-11 16-05-10" src="https://github.com/user-attachments/assets/523b3ad4-f0d7-42f8-a0e7-3d9577e9b42c" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-11 16-06-32" src="https://github.com/user-attachments/assets/6db68f05-a3d9-4415-9b27-81dd8bff05d6" />
+
+***
+
+## Beretta M9A3  
+> - EFT Model, FIREBREATH M9 animations
+> - New Tactical Kit 
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-15 19-26-13" src="https://github.com/user-attachments/assets/30f79dfb-0784-4cb2-9e60-73737004c33d" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-15 19-26-47" src="https://github.com/user-attachments/assets/c5ab25cf-45e1-4278-9b80-42f01899a5de" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-15 19-27-37" src="https://github.com/user-attachments/assets/c95291b2-e57a-4989-b598-7ec7b79281bb" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-15 19-28-54" src="https://github.com/user-attachments/assets/c9e8cd71-bbcf-4ee8-883e-26a3c8a4bd32" />
+<img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-15 20-17-13" src="https://github.com/user-attachments/assets/e5071122-6f0c-408a-8c49-76eeb8603e07" />
 
 ***
 
