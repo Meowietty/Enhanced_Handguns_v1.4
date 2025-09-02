@@ -43,6 +43,7 @@ Nothing complicated - just install and set the highest priority. This means that
 ## Beretta M9A3  
 > - EFT Model, FIREBREATH M9 animations
 > - New Tactical Kit 
+
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-15 19-26-13" src="https://github.com/user-attachments/assets/30f79dfb-0784-4cb2-9e60-73737004c33d" />
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-15 19-26-47" src="https://github.com/user-attachments/assets/c5ab25cf-45e1-4278-9b80-42f01899a5de" />
 <img width="2560" height="1080" alt="AnomalyDX11AVX 2025-08-15 19-27-37" src="https://github.com/user-attachments/assets/c95291b2-e57a-4989-b598-7ec7b79281bb" />
